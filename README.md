@@ -23,13 +23,8 @@
 </div>
 
 <br/><br/><br/>
-
-<!-- <div align="center">
-
-</div>
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=parkjoah&theme=rose&card_width=340&show_icons=true&rank_icon=github&hide=issues,stars&include_all_commits=true)
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=parkjoah&layout=compact&theme=rose)
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=parkjoah&theme=rose&show_icons=true)
--->
 
 
 

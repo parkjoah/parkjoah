@@ -1,5 +1,6 @@
-## Hi there 👋
-
+## hi👋
+![header](https://capsule-render.vercel.app/api?type=slice&color=fce8e6&height=300&section=header&text=JOAH%20PARK&fontSize=90&stroke=ffffff&theme=rose&fontColor=92475955)
+<!--![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=parkjoah&theme=rose&show_icons=true)-->
 <!--
 **parkjoah/parkjoah** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 

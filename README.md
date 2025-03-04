@@ -25,13 +25,14 @@
 </div>
 
 <br/><br/><br/>
-<!--![parkjoah's GitHub stats](https://github-readme-stats.vercel.app/api?username=parkjoah&theme=rose&card_width=340&show_icons=true&rank_icon=github&hide=issues,stars&include_all_commits=true)
+<!--![parkjoah's GitHub stats](https://github-readme-stats-sigma-five.vercel.app/api?username=parkjoah&theme=rose&card_width=340&show_icons=true&rank_icon=github&hide=issues,stars&include_all_commits=true)
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=parkjoah&layout=compact&theme=rose)-->
 <br><br>
 <p align="center">
-  <img height="150em" src="https://github-readme-stats.vercel.app/api?username=parkjoah&theme=rose&card_width=340&show_icons=true&rank_icon=github&hide=issues,stars&include_all_commits=true&t=timetable&"/>
+  <img height="150em" src="https://github-readme-stats.vercel.app/api?username=parkjoah&theme=rose&card_width=340&show_icons=true&rank_icon=github&hide=issues,stars&cache_seconds=30&include_all_commits=true&count_private=true"/>
   <img height="150em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=parkjoah&layout=compact&theme=rose&t=timetable" />
 </p>
+
 
 
 <!--   <img src="https://img.shields.io/badge/Instagram-FF0069?style=flat-square&logo=simpleicons_Instagram&logoColor=white"/></a>&nbsp

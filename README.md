@@ -13,17 +13,24 @@
 <div align="center">
   <img src="https://img.shields.io/badge/react-20232a.svg?style=for-the-badge&logo=react&logoColor=61DAFB" />&nbsp
   <img src="https://img.shields.io/badge/javascript-F7DF1E.svg?style=for-the-badge&logo=javascript&logoColor=20232a" />&nbsp
+ <img src="https://img.shields.io/badge/typescript-3178C6?style=for-the-badge&logo=typescript&logoColor=white" />&nbsp
+</div>
+
+<div align="center">
   <img src="https://img.shields.io/badge/html5-E34F26.svg?style=for-the-badge&logo=html5&logoColor=white" />&nbsp
+ <img src="https://img.shields.io/badge/styled--components-DB7093?style=for-the-badge&logo=styled-components&logoColor=white" />&nbsp
+  <img src="https://img.shields.io/badge/tailwindcss-%2338B2AC.svg?style=for-the-badge&logo=tailwind-css&logoColor=white" />
 </div>
 
 <div align="center">
   <img src="https://img.shields.io/badge/css3-1572B6.svg?style=for-the-badge&logo=css3&logoColor=white" />&nbsp
   <img src="https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54" />&nbsp
+  <img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white" alt="Java">
 </div>
 <br/>
 
 <p align="center">
-  <img height="150em" src="https://github-readme-stats.vercel.app/api?username=parkjoah&theme=rose&card_width=340&show_icons=true&rank_icon=github&hide=issues,stars&cache_seconds=30&include_all_commits=true&count_private=true"/>&nbsp
+  <img height="150em" src="https://github-readme-stats.vercel.app/api?username=parkjoah&theme=rose&card_width=340&show_icons=true&rank_icon=github&hide=stars&cache_seconds=30&include_all_commits=true&count_private=true"/>&nbsp
   <img height="150em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=parkjoah&layout=compact&theme=rose&t=timetable" />
 </p><br/>
 

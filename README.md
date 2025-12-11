@@ -12,6 +12,7 @@
 <h3 align="center">🛠️ Tech Stack 🛠️</h3>
 <div align="center">
   <img src="https://img.shields.io/badge/react-20232a.svg?style=for-the-badge&logo=react&logoColor=61DAFB" />&nbsp
+  <img src="https://img.shields.io/badge/next.js-000000.svg?style=for-the-badge&logo=next.js&logoColor=white" />&nbsp
   <img src="https://img.shields.io/badge/javascript-F7DF1E.svg?style=for-the-badge&logo=javascript&logoColor=20232a" />&nbsp
  <img src="https://img.shields.io/badge/typescript-3178C6?style=for-the-badge&logo=typescript&logoColor=white" />&nbsp
 </div>
@@ -40,7 +41,7 @@
 2020.03 ~ 2020.12 | Planning Member, 27th Amazing Student Council, Fine Chemistry, SNUT
 2021.01 ~ 2021.12 | Head of Planning, 28th Gaonnuri Student Council, Fine Chemistry, SNUT
 2021.08 ~ 2021.10 | Advanced Big Data Training Program (ST Big Data Intensive Course)
-2022.01 ~ | Student Representative (Class of 20), Fine Chemistry, SNUT
+2022.01 ~ 2025.08 | Student Representative (Class of 20), Fine Chemistry, SNUT
 ```
 
 
@@ -51,17 +52,4 @@
   <a href="mailto:likezoa129@gmail.com"><img src="https://img.shields.io/badge/Gmail-EA4335?style=flat-square&logo=Gmail&logoColor=white"/></a>&nbsp
 </div>
 
-<!--
-**parkjoah/parkjoah** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
